@@ -25,4 +25,3 @@ jobs:
       - name: Push Docker image to Docker Hub
         run: docker push raqueelmora/deploy-diabetes:latest
 
-print("this dock repo works")
